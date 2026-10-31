@@ -6,10 +6,11 @@
 
 ## Demo
 
-[Watch the 84-second demo](assets/demo.mp4)
+[▶ Watch the 84-second demo](./demo.mp4)
 
-![Actual n8n consultation workflow](assets/workflow.png)
+## Actual n8n Workflow
 
+![Lensoplus AI — n8n Consultation Workflow](./workflow.png)
 ## The challenge
 
 Customers shopping for production equipment often need more than a keyword search. They want recommendations that account for their use case, budget, existing devices, and the compatibility of multiple items. A generic chatbot may invent product details or fail to update a shopping bundle when requirements change.
