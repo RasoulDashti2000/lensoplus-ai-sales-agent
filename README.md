@@ -5,8 +5,7 @@
 **Status:** Functional local prototype, demonstrated with a multi-turn shopping scenario. Public production deployment and business-impact measurements are not claimed.
 
 ## Demo
-
-[▶ Watch the 84-second demo](./demo.mp4)
+[⬇ Download the 84-second demo (MP4)](./demo.mp4)
 
 ## Actual n8n Workflow
 
